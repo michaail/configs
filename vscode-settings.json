@@ -1,0 +1,33 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.venvPath": "/home/klos/.local/share/virtualenvs/py-ezi-lhP9sPhS",
+    "eslint.packageManager": "yarn",
+    "eslint.autoFixOnSave": true,
+    "files.associations": {
+        "*.js": "javascript"
+    },
+    "[javascript]": {},
+    "[csharp]": {
+        "editor.tabSize": 4,
+    },
+    "editor.tabSize": 2,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.autofetch": true,
+    "ruby.lint": {
+        "rubocop": true
+    },
+    "[ruby]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "misogi.ruby-rubocop",
+    },
+    // "ruby.format": "rubocop",
+    "editor.formatOnSaveTimeout": 5000,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.intellisense": "rubyLocate",
+    "ruby.useLanguageServer": true,
+    
+}
